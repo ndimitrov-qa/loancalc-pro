@@ -1,0 +1,7 @@
+{
+  "name": "Loan Calculator",
+  "description": "Calculate monthly payments, total interest, and full repayment schedule for any loan amount, interest rate, and term.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
